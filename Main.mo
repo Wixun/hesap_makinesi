@@ -1,3 +1,5 @@
+// -*- motoko -*-
+
 // Hesap makinesi uygulaması
 // Bu uygulama, Motoko dilinde yazılmış basit bir hesap makinesidir.
 // İşlemler: toplama, çıkarma, çarpma, bölme ve sıfırlama
